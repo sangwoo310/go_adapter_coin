@@ -1,2 +1,2 @@
-# go_adapter_coin
+# hsw_go_blockchain
 This is coin wallet code sample
